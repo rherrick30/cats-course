@@ -1,4 +1,4 @@
-package part4typeclasses
+package part4TypeClasses
 
 object Applicatives extends App{
 

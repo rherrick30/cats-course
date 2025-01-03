@@ -1,4 +1,4 @@
-package part4typeclasses
+package part4TypeClasses
 
 import java.util.concurrent.Executors
 import scala.concurrent.{ExecutionContext, Future}
